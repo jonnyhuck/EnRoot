@@ -13,13 +13,13 @@ Then, put the images that you would like to transform (jpg format) into the root
 #### Before:
 ![before-grid](Snap_0001.jpg)
 #### After
-![after-grid.jpg](out/Snap_0001.tif)
+![after-grid](out/Snap_0001.jpg)
 
 ### Example 2: Using Real Data
 
 #### Before:
 ![before-grid](Snap_003.jpg)
 #### After
-![after-grid.jpg](out/Snap_003.tif)
+![after-grid](out/Snap_003.jpg)
 
 You can read more about the use of a **minirhizotron** in our forthcoming paper ***[coming soon...]***.
