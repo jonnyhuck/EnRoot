@@ -11,15 +11,15 @@ Then, put the images that you would like to transform (jpg format) into the root
 ### Example 1: Using a Calibration Grid
 
 #### Before:
-![before-grid](./Snap_0001.jpg)
+![before-grid](Snap_0001.jpg)
 #### After
-![after-grid.jpg](./out/Snap_0001.tif)
+![after-grid.jpg](out/Snap_0001.tif)
 
 ### Example 2: Using Real Data
 
 #### Before:
-![before-grid](./Snap_003.jpg)
+![before-grid](Snap_003.jpg)
 #### After
-![after-grid.jpg](./out/Snap_003.tif)
+![after-grid.jpg](out/Snap_003.tif)
 
 You can read more about the use of a **minirhizotron** in our forthcoming paper ***[coming soon...]***.
