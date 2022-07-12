@@ -22,4 +22,4 @@ Then, put the images that you would like to transform (jpg format) into the root
 #### After
 ![after-grid](out/Snap_003.jpg)
 
-You can read more about the use of a **minirhizotron** in our forthcoming paper **[coming soon...]**.
+You can read more about the use of a **minirhizotron** in [Arnaud, M., Baird, A.J., Morris, P.J. et al. EnRoot: a narrow-diameter, inexpensive and partially 3D-printable minirhizotron for imaging fine root production. Plant Methods 15, 101 (2019).](https://doi.org/10.1186/s13007-019-0489-6).
